@@ -37,7 +37,8 @@ This Service does not use these “cookies” explicitly.
 
 [Service Providers]
 
-I want to inform users of this Service that these third parties do not have access to your Personal Information, except e-mail address you have log-in.
+I want to inform users of this Service that these third parties do not have access to your Personal Information, 
+except e-mail address you have logged in and gps location info.
 
 [Security]
 
